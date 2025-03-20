@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "853842612498",
+    "firebase_url": "https://smartlocker-8413c-default-rtdb.firebaseio.com",
+    "project_id": "smartlocker-8413c",
+    "storage_bucket": "smartlocker-8413c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853842612498:android:13840b8b4ff8478e1aa3cb",
+        "android_client_info": {
+          "package_name": "com.example.smartlocker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4bd5yHW9JaDlmaOj9dnCP2-0kmKrFyu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
